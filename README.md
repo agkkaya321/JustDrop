@@ -50,7 +50,8 @@ Ce projet permet de **scanner les ordinateurs présents sur un réseau local via
 Ce projet est conçu pour des réseaux locaux uniquement.
 Aucune authentification n’est encore mise en place (peut être ajoutée en future version).
 
-## 🛠️ À faire
+
+🛠️ À faire
 
  - Support multi-fichier(present pour windows mais pas MacOS)
  - Historique des transferts
