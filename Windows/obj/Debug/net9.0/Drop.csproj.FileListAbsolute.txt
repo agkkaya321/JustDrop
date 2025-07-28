@@ -1,0 +1,14 @@
+C:\Users\AAA2\Desktop\Drop\bin\Debug\net9.0\Drop.exe
+C:\Users\AAA2\Desktop\Drop\bin\Debug\net9.0\Drop.deps.json
+C:\Users\AAA2\Desktop\Drop\bin\Debug\net9.0\Drop.runtimeconfig.json
+C:\Users\AAA2\Desktop\Drop\bin\Debug\net9.0\Drop.dll
+C:\Users\AAA2\Desktop\Drop\bin\Debug\net9.0\Drop.pdb
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net9.0\Drop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net9.0\Drop.AssemblyInfoInputs.cache
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net9.0\Drop.AssemblyInfo.cs
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net9.0\Drop.csproj.CoreCompileInputs.cache
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net9.0\Drop.dll
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net9.0\refint\Drop.dll
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net9.0\Drop.pdb
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net9.0\Drop.genruntimeconfig.cache
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net9.0\ref\Drop.dll

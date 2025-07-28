@@ -1,0 +1,3 @@
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net48\Drop.csproj.AssemblyReference.cache
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net48\Drop.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAA2\Desktop\Drop\obj\Debug\net48\Drop.exe.config
