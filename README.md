@@ -48,7 +48,7 @@ Ce projet permet de **scanner les ordinateurs présents sur un réseau local via
 ## 🔒 Sécurité
 
 Ce projet est conçu pour des réseaux locaux uniquement.
-Aucune authentification n’est encore mise en place (peut être ajoutée en future version).
+Aucune authentification n’est encore mise en place (peut être ajoutée en future version). C'est conçu pour une utilisation personelle et il y a des failles de sécurité non-patché connu.
 
 
 🛠️ À faire
